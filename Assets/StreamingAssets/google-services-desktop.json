@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "firebase_url": "null",
+    "project_number": "209234370487",
+    "project_id": "jawa-fantasy-v3",
+    "storage_bucket": "jawa-fantasy-v3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209234370487:android:7fbddd1c5b21d039481232",
+        "android_client_info": {
+          "package_name": "com.areru.jawafantasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209234370487-l3d0ugdvbn185j74vucmkdd4gn06gujp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrA3tASrmpXb1Yo3Agy_RKOkYdZl0MPJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209234370487-l3d0ugdvbn185j74vucmkdd4gn06gujp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

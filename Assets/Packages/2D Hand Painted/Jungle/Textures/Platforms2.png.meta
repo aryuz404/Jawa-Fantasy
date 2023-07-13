@@ -1,0 +1,449 @@
+fileFormatVersion: 2
+guid: 0d7858cd59d38492f90f1f6b5ed5f90c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7203401659721953138
+    second: PlatformGrassBrown5
+  - first:
+      213: -5515889045193452905
+    second: PlatformGrassBrown6
+  - first:
+      213: -7935729919904175033
+    second: PlatformGrassGray5
+  - first:
+      213: -6915727468555149248
+    second: PlatformGrassGray6
+  - first:
+      213: 6783384830112420756
+    second: PlatformGrassBrown7
+  - first:
+      213: 5160325853523159036
+    second: PlatformGrassGray7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlatformGrassBrown5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1546
+        width: 856
+        height: 502
+      alignment: 9
+      pivot: {x: 0.49611354, y: 0.4837829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 428, y: 101}
+        - {x: 380, y: 146}
+        - {x: 228, y: 168}
+        - {x: 220, y: 216}
+        - {x: 184, y: 212}
+        - {x: 114.312195, y: 251}
+        - {x: 78, y: 251}
+        - {x: 41, y: 200}
+        - {x: -15, y: 168}
+        - {x: -109, y: 175}
+        - {x: -158, y: 188}
+        - {x: -298, y: 177}
+        - {x: -428, y: 141}
+        - {x: -428, y: 56}
+        - {x: -412.83328, y: 40.18286}
+        - {x: -408, y: -27}
+        - {x: -374, y: -73}
+        - {x: -370, y: -157}
+        - {x: -265, y: -210}
+        - {x: -264, y: -101}
+        - {x: -203.56264, y: -114.3125}
+        - {x: -162, y: -89}
+        - {x: 30, y: -96}
+        - {x: 49, y: -251}
+        - {x: 152, y: -221}
+        - {x: 155, y: -86}
+        - {x: 331, y: -83}
+        - {x: 387, y: -33}
+        - {x: 428, y: 42}
+      physicsShape: []
+      tessellationDetail: 0.01
+      bones: []
+      spriteID: e8050d11b50680c90800000000000000
+      internalID: -7203401659721953138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformGrassBrown6
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1596
+        width: 1087
+        height: 435
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.39769077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.5, y: -111.5}
+        - {x: 149.5, y: -135.5}
+        - {x: 231.5, y: -183.5}
+        - {x: 310.5, y: -217.5}
+        - {x: 335.5, y: -217.5}
+        - {x: 477.5, y: -104.5}
+        - {x: 543.5, y: -0.5}
+        - {x: 543.5, y: 107.5}
+        - {x: 338.5, y: 153.5}
+        - {x: -78.5, y: 168.5}
+        - {x: -214.5, y: 217.5}
+        - {x: -319.5, y: 188.5}
+        - {x: -433.5, y: 165.5}
+        - {x: -543.5, y: 104.5}
+        - {x: -543.5, y: -34.5}
+        - {x: -500.5, y: -85.5}
+        - {x: -392.5, y: -143.5}
+        - {x: -225.5, y: -128.5}
+        - {x: -204.5, y: -217.5}
+        - {x: -169.5, y: -217.5}
+        - {x: -135.5, y: -206.5}
+        - {x: -106.5, y: -176.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79296c84320a373b0800000000000000
+      internalID: -5515889045193452905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformGrassGray5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1049
+        width: 856
+        height: 515
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4263518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 428, y: 71.5}
+        - {x: 383, y: 120.5}
+        - {x: 183, y: 157.5}
+        - {x: 78, y: 149.5}
+        - {x: 38, y: 222.5}
+        - {x: -26, y: 195.5}
+        - {x: -34, y: 243.5}
+        - {x: -107, y: 252.5}
+        - {x: -134, y: 210.5}
+        - {x: -174, y: 201.5}
+        - {x: -167, y: 257.5}
+        - {x: -201, y: 257.5}
+        - {x: -223, y: 184.5}
+        - {x: -262, y: 238.5}
+        - {x: -303, y: 147.5}
+        - {x: -428, y: 106.5}
+        - {x: -428, y: 24.5}
+        - {x: -411, y: -0.5}
+        - {x: -387, y: -90.5}
+        - {x: -336, y: -96.5}
+        - {x: -221, y: -142.5}
+        - {x: -165, y: -118.5}
+        - {x: -36, y: -122.5}
+        - {x: 55, y: -105.5}
+        - {x: 62, y: -189.5}
+        - {x: 169, y: -257.5}
+        - {x: 246, y: -221.5}
+        - {x: 257, y: -114.5}
+        - {x: 341, y: -114.5}
+        - {x: 428, y: 10.5}
+      physicsShape: []
+      tessellationDetail: 0.01
+      bones: []
+      spriteID: 74c2ca2eeaf9ed190800000000000000
+      internalID: -7935729919904175033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformGrassGray6
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1153
+        width: 1087
+        height: 374
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 543.5, y: 46}
+        - {x: 405.5, y: 141}
+        - {x: 253.5, y: 139}
+        - {x: 136.5, y: 109}
+        - {x: 47.5, y: 117}
+        - {x: -144.5, y: 187}
+        - {x: -241.5, y: 187}
+        - {x: -241.5, y: 164}
+        - {x: -436.5, y: 167}
+        - {x: -475.5, y: 90}
+        - {x: -543.5, y: 62}
+        - {x: -543.5, y: -93}
+        - {x: -462.5, y: -187}
+        - {x: -290.6012, y: -186.99988}
+        - {x: -102.5, y: -172}
+        - {x: 333.32727, y: -187}
+        - {x: 435.5, y: -187}
+        - {x: 543.5, y: -89}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040eb5922866600a0800000000000000
+      internalID: -6915727468555149248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformGrassBrown7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 1896
+        height: 562
+      alignment: 9
+      pivot: {x: 0.50175464, y: 0.5446067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -728.3967, y: -281}
+        - {x: -712, y: -95}
+        - {x: -143, y: -101}
+        - {x: -5, y: -128}
+        - {x: 59, y: -94}
+        - {x: 126, y: -131}
+        - {x: 217, y: -91}
+        - {x: 293, y: -99}
+        - {x: 316, y: -181}
+        - {x: 613, y: -202}
+        - {x: 701, y: -106}
+        - {x: 831, y: -99}
+        - {x: 948, y: 26}
+        - {x: 948, y: 108}
+        - {x: 887, y: 168}
+        - {x: 809, y: 175}
+        - {x: 741, y: 237}
+        - {x: 514, y: 220}
+        - {x: 473, y: 162}
+        - {x: 369, y: 199}
+        - {x: 241.62744, y: 281}
+        - {x: 211, y: 255}
+        - {x: 141.72656, y: 281}
+        - {x: 17.739624, y: 281}
+        - {x: -184, y: 193}
+        - {x: -281, y: 202}
+        - {x: -363, y: 244}
+        - {x: -598, y: 213}
+        - {x: -601, y: 179}
+        - {x: -818, y: 191}
+        - {x: -948, y: 141}
+        - {x: -948, y: 7}
+        - {x: -886, y: -103}
+        - {x: -868, y: -281}
+      - - {x: 497, y: -154}
+        - {x: 427, y: -122}
+        - {x: 392, y: -68}
+        - {x: 461, y: -59}
+        - {x: 533, y: -90}
+        - {x: 633, y: -75}
+      physicsShape: []
+      tessellationDetail: 0.01
+      bones: []
+      spriteID: 493df95209c632e50800000000000000
+      internalID: 6783384830112420756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformGrassGray7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 556
+        width: 1416
+        height: 483
+      alignment: 9
+      pivot: {x: 0.5046989, y: 0.66123444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -692, y: 81.5}
+        - {x: -662, y: -2.5}
+        - {x: -537, y: -49.5}
+        - {x: -480, y: -155.5}
+        - {x: -427, y: -175.5}
+        - {x: -395, y: -116.5}
+        - {x: -331, y: -159.5}
+        - {x: -227, y: -160.5}
+        - {x: -203, y: -5.5}
+        - {x: -135, y: -3.5}
+        - {x: 114, y: -28.5}
+        - {x: 139, y: -226.5}
+        - {x: 178, y: -241.5}
+        - {x: 234, y: -241.5}
+        - {x: 277, y: -57.5}
+        - {x: 378, y: -17.5}
+        - {x: 421.30872, y: -241.5}
+        - {x: 481, y: -241.5}
+        - {x: 536, y: -55.5}
+        - {x: 626, y: -25.5}
+        - {x: 708, y: 100.5}
+        - {x: 708, y: 199.5}
+        - {x: 496, y: 241.5}
+        - {x: -593, y: 241.5}
+        - {x: -708, y: 204.5}
+        - {x: -708, y: 106.5}
+      physicsShape: []
+      tessellationDetail: 0.01
+      bones: []
+      spriteID: cf72380f5092d9740800000000000000
+      internalID: 5160325853523159036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlatformGrassGray5: -7935729919904175033
+      PlatformGrassGray7: 5160325853523159036
+      PlatformGrassGray6: -6915727468555149248
+      PlatformGrassBrown7: 6783384830112420756
+      PlatformGrassBrown5: -7203401659721953138
+      PlatformGrassBrown6: -5515889045193452905
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

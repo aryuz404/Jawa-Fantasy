@@ -1,0 +1,657 @@
+fileFormatVersion: 2
+guid: e5750f9348bea446f9018f5877c6ea3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5089538021776121650
+    second: RockGray1
+  - first:
+      213: 928586340548848664
+    second: Rocks1_1
+  - first:
+      213: 4201002398623087651
+    second: RockGray2
+  - first:
+      213: 2291839356396918694
+    second: RockBlue3
+  - first:
+      213: -398397520345515166
+    second: RockBlue1
+  - first:
+      213: -1603301410023391544
+    second: RockBlue2
+  - first:
+      213: -2790566096946999771
+    second: RockGray3
+  - first:
+      213: 3049812627890521018
+    second: RockBlue4
+  - first:
+      213: 1809077059031922145
+    second: RockBlue5
+  - first:
+      213: -3445705162306100987
+    second: RockGray4
+  - first:
+      213: 9204187661618756494
+    second: Rocks1_10
+  - first:
+      213: 5315400672026343087
+    second: Rocks1_11
+  - first:
+      213: -1215699843260486564
+    second: RockGray5
+  - first:
+      213: 2758318129048490708
+    second: Rocks1_13
+  - first:
+      213: -7891352349894792998
+    second: Rocks1_14
+  - first:
+      213: 792305353105067070
+    second: RockGray6
+  - first:
+      213: 5364295001639345771
+    second: Rocks1_16
+  - first:
+      213: 8512776210991785991
+    second: RockBlue6
+  - first:
+      213: -6234916968687477040
+    second: Rocks1_18
+  - first:
+      213: 3392368488621669450
+    second: Rocks1_19
+  - first:
+      213: -4178759769313698219
+    second: Rocks1_20
+  - first:
+      213: -5095981259349474553
+    second: Rocks1_21
+  - first:
+      213: -3839887892905080965
+    second: Rocks1_22
+  - first:
+      213: -7638811441762748469
+    second: Rocks1_23
+  - first:
+      213: -5062867146167161090
+    second: Rocks1_24
+  - first:
+      213: 6148387361800005036
+    second: Rocks1_25
+  - first:
+      213: 7971159520043004686
+    second: Rocks1_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RockGray1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1557
+        width: 2030
+        height: 479
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 308, y: 0, z: 308, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0a03d72245e59b0800000000000000
+      internalID: -5089538021776121650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockGray2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1160
+        width: 1312
+        height: 366
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 252, y: 0, z: 252, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c3e767c65fc4a30800000000000000
+      internalID: 4201002398623087651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockBlue3
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1170
+        width: 594
+        height: 320
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -278.8706, y: 75.5177}
+        - {x: -297, y: 65}
+        - {x: -297, y: 3}
+        - {x: -3, y: -9}
+        - {x: -58, y: -26}
+        - {x: -92, y: -77}
+        - {x: 54, y: -160}
+        - {x: 139, y: -160}
+        - {x: 220.36963, y: -149.18506}
+        - {x: 297, y: -108}
+        - {x: 297, y: -52}
+        - {x: 144, y: 15}
+        - {x: 184, y: 39}
+        - {x: 84, y: 132}
+        - {x: 57, y: 126}
+        - {x: -129, y: 160}
+        - {x: -217, y: 160}
+        - {x: -267, y: 123}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a75c4080cf3ecf10800000000000000
+      internalID: 2291839356396918694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockBlue1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 303
+        width: 1102
+        height: 725
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 516, y: -132.5}
+        - {x: 468, y: -90.5}
+        - {x: 402, y: -47.5}
+        - {x: 551, y: 166.06226}
+        - {x: 551, y: 249.5}
+        - {x: 62, y: 362.5}
+        - {x: -209, y: 362.5}
+        - {x: -547, y: 301.5}
+        - {x: -551, y: 135.5}
+        - {x: -483, y: -118.5}
+        - {x: -512, y: -201.5}
+        - {x: -510, y: -254.5}
+        - {x: -542, y: -317.5}
+        - {x: -388, y: -362.5}
+        - {x: 203, y: -362.5}
+        - {x: 190, y: -327.5}
+        - {x: 360, y: -335.5}
+        - {x: 475, y: -307.5}
+        - {x: 549, y: -287.5}
+        - {x: 551, y: -284.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bb868e09b987af0800000000000000
+      internalID: -398397520345515166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockBlue2
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 703
+        width: 816
+        height: 366
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82, y: 183}
+        - {x: -45, y: 153}
+        - {x: -46, y: 115}
+        - {x: -204, y: 79}
+        - {x: -211, y: 6}
+        - {x: -408, y: -56}
+        - {x: -408, y: -149}
+        - {x: -219, y: -183}
+        - {x: -100, y: -183}
+        - {x: 40, y: -135}
+        - {x: 101, y: -132}
+        - {x: 330, y: -172}
+        - {x: 408, y: -153}
+        - {x: 391, y: 80}
+        - {x: 187, y: 183}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce3cabbcddefb9e0800000000000000
+      internalID: -1603301410023391544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockGray3
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 282
+        width: 367
+        height: 331
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 165.5}
+        - {x: -70.5, y: 75.5}
+        - {x: -151.5, y: 39.5}
+        - {x: -183.5, y: -18.5}
+        - {x: -183.5, y: -151.5}
+        - {x: -112.5, y: -154.5}
+        - {x: -72.5, y: -165.5}
+        - {x: 117.5, y: -165.5}
+        - {x: 167.5, y: -130.5}
+        - {x: 183.5, y: 30.5}
+        - {x: 183.5, y: 99.5}
+        - {x: 130.5, y: 165.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ec93d7beae549d0800000000000000
+      internalID: -2790566096946999771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockBlue4
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 284
+        width: 210
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104, y: 135}
+        - {x: -105, y: 107}
+        - {x: -90, y: 19}
+        - {x: -88, y: -45}
+        - {x: -50, y: -135}
+        - {x: 80, y: -135}
+        - {x: 105, y: -109}
+        - {x: 105, y: -21}
+        - {x: 80, y: 103}
+        - {x: -42, y: 135}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab34aec2d6c135a20800000000000000
+      internalID: 3049812627890521018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockBlue5
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 394
+        width: 175
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.5, y: -35.5}
+        - {x: 87.5, y: 28.5}
+        - {x: 64.5, y: 68.5}
+        - {x: 29.5, y: 128.5}
+        - {x: -6.5, y: 128.5}
+        - {x: -87.5, y: 6.5}
+        - {x: -87.5, y: -104.5}
+        - {x: -24.5, y: -128.5}
+        - {x: 29.5, y: -128.5}
+        - {x: 52.5, y: -116.5}
+        - {x: 71.5, y: -91.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5f7e210022b1910800000000000000
+      internalID: 1809077059031922145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockGray4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 38
+        width: 488
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: 100}
+        - {x: -45, y: 87}
+        - {x: -115, y: 107}
+        - {x: -203, y: 107}
+        - {x: -244, y: 15}
+        - {x: -243, y: -73}
+        - {x: -183, y: -104}
+        - {x: -121, y: -106}
+        - {x: 227, y: -106}
+        - {x: 243, y: -97}
+        - {x: 243, y: -16}
+        - {x: 131, y: 82}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501e30839656e20d0800000000000000
+      internalID: -3445705162306100987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockGray5
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 73
+        width: 360
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -176, y: 54.5}
+        - {x: -177, y: 37.5}
+        - {x: -127.26306, y: 29.84816}
+        - {x: -133, y: 16.5}
+        - {x: -159, y: 6.5}
+        - {x: -180, y: -18.5}
+        - {x: -180, y: -33.5}
+        - {x: -116, y: -48.5}
+        - {x: -58, y: -44.5}
+        - {x: -36, y: -6.5}
+        - {x: -24, y: -6.5}
+        - {x: -38, y: -52.5}
+        - {x: -12, y: -61.5}
+        - {x: 38, y: -61.5}
+        - {x: 64, y: -45.5}
+        - {x: 60, y: -28.5}
+        - {x: 28, y: -17.5}
+        - {x: -20, y: -16.5}
+        - {x: -12, y: -7.5}
+        - {x: 83, y: -2.5}
+        - {x: 133, y: -18.5}
+        - {x: 154, y: -15.5}
+        - {x: 180, y: 6.5}
+        - {x: 180, y: 20.5}
+        - {x: 139.98395, y: 31.223236}
+        - {x: 103, y: 28.5}
+        - {x: 92.06323, y: 44.06476}
+        - {x: 27, y: 61.5}
+        - {x: -26, y: 51.5}
+        - {x: -56, y: 34.5}
+        - {x: -67, y: 11.5}
+        - {x: -88, y: 32.5}
+        - {x: -111, y: 61.5}
+        - {x: -154, y: 61.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ce5f00f67f02fe0800000000000000
+      internalID: -1215699843260486564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockGray6
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 55
+        width: 450
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 120, y: 61.5}
+        - {x: 60, y: 73.5}
+        - {x: -25, y: 73.5}
+        - {x: -57, y: 41.5}
+        - {x: 43, y: 24.5}
+        - {x: 41, y: 2.5}
+        - {x: 3, y: 8.5}
+        - {x: -8, y: -10.5}
+        - {x: -73, y: 12.5}
+        - {x: -169, y: -5.5}
+        - {x: -225, y: -44.5}
+        - {x: -225, y: -73.5}
+        - {x: -105, y: -73.5}
+        - {x: -88, y: -43.5}
+        - {x: -23, y: -58.5}
+        - {x: 17, y: -30.5}
+        - {x: 105, y: -50.5}
+        - {x: 225, y: -23.5}
+        - {x: 225, y: 8.5}
+        - {x: 175, y: 50.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cc7755585defa00800000000000000
+      internalID: 792305353105067070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockBlue6
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 43
+        width: 411
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109.5, y: 66}
+        - {x: 74.5, y: 42}
+        - {x: -1.5, y: 91}
+        - {x: -51.5, y: 74}
+        - {x: -82.5, y: 91}
+        - {x: -150.5, y: 91}
+        - {x: -119.5, y: 68}
+        - {x: -179.5, y: 57}
+        - {x: -205.5, y: 29}
+        - {x: -205.5, y: -3}
+        - {x: -116.72388, y: -8.400002}
+        - {x: -79.5, y: -36}
+        - {x: -126.5, y: -56}
+        - {x: -110.5, y: -83}
+        - {x: -44.5, y: -91}
+        - {x: 18.5, y: -91}
+        - {x: 32.5, y: -47}
+        - {x: -22.5, y: -25}
+        - {x: -12.5, y: -1}
+        - {x: -29.5, y: 20}
+        - {x: 39.5, y: 17}
+        - {x: 14.5, y: -19}
+        - {x: 104.5, y: -34}
+        - {x: 205.5, y: -28}
+        - {x: 205.5, y: 34}
+        - {x: 170.5, y: 66}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708af8c7cd4732670800000000000000
+      internalID: 8512776210991785991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RockGray1: -5089538021776121650
+      RockBlue4: 3049812627890521018
+      RockBlue5: 1809077059031922145
+      RockBlue1: -398397520345515166
+      RockGray6: 792305353105067070
+      RockGray5: -1215699843260486564
+      RockBlue3: 2291839356396918694
+      RockBlue6: 8512776210991785991
+      RockGray2: 4201002398623087651
+      RockBlue2: -1603301410023391544
+      RockGray3: -2790566096946999771
+      RockGray4: -3445705162306100987
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

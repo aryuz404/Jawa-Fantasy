@@ -1,0 +1,892 @@
+fileFormatVersion: 2
+guid: 98ebc7543c59c466c8e06ba38e2f09a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -406496011657995516
+    second: Thorn5
+  - first:
+      213: 7295689168946027194
+    second: Vines_1
+  - first:
+      213: 7324600648951913920
+    second: Thorn1
+  - first:
+      213: -2703658641051211970
+    second: Thorn4
+  - first:
+      213: 8123326678789523977
+    second: Vines_4
+  - first:
+      213: 3454519535869621564
+    second: Vines_5
+  - first:
+      213: 6858356584892941839
+    second: Thorn2
+  - first:
+      213: 2468440615110790748
+    second: Thorn7
+  - first:
+      213: 6954685250761186733
+    second: Thorn6
+  - first:
+      213: -5931956423119021470
+    second: Thorn3
+  - first:
+      213: 4493261376350453339
+    second: Thorn11
+  - first:
+      213: -6526947550952684357
+    second: Thorn8
+  - first:
+      213: 518204249089820806
+    second: Thorn9
+  - first:
+      213: -305812456382034238
+    second: Thorn10
+  - first:
+      213: 7811970227836477283
+    second: RootArc1
+  - first:
+      213: 8838717577573365509
+    second: RootArc2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Thorn5
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1587
+        width: 1025
+        height: 433
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 388.5, y: -207.5}
+        - {x: 246.5, y: -143.5}
+        - {x: 241.5, y: -208.5}
+        - {x: 101.5, y: -208.5}
+        - {x: 34.5, y: -98.5}
+        - {x: -109.5, y: -128.5}
+        - {x: -220.56287, y: -209.58997}
+        - {x: -307.5, y: -209.5}
+        - {x: -294.5, y: -134.5}
+        - {x: -443.12158, y: -210.24524}
+        - {x: -489.5, y: -210.5}
+        - {x: -512.5, y: -188.5}
+        - {x: -512.5, y: -128.5}
+        - {x: -469.5, y: -96.5}
+        - {x: -470.5, y: -58.5}
+        - {x: -512.5, y: -16.5}
+        - {x: -455.5, y: 120.5}
+        - {x: -367.5, y: 75.5}
+        - {x: -337.5, y: 100.5}
+        - {x: -362.5, y: 139.5}
+        - {x: -347.5, y: 197.5}
+        - {x: -289.5, y: 129.5}
+        - {x: -207.5, y: 157.5}
+        - {x: -226.5, y: 91.5}
+        - {x: -146.5, y: 123.5}
+        - {x: -115.5, y: 99.5}
+        - {x: -87.5, y: 120.5}
+        - {x: -136.5, y: 165.5}
+        - {x: -72.5, y: 165.5}
+        - {x: -89.5, y: 216.5}
+        - {x: 18.5, y: 216.5}
+        - {x: 12.5, y: 186.5}
+        - {x: 70.5, y: 192.5}
+        - {x: 53.5, y: 158.5}
+        - {x: 103.5, y: 156.5}
+        - {x: 90.5, y: 216.5}
+        - {x: 122.5, y: 216.5}
+        - {x: 136.5, y: 155.5}
+        - {x: 175.5, y: 158.5}
+        - {x: 172.5, y: 122.5}
+        - {x: 210.5, y: 107.5}
+        - {x: 203.5, y: 177.5}
+        - {x: 249.5, y: 103.5}
+        - {x: 355.5, y: 170.5}
+        - {x: 361.5, y: 76.5}
+        - {x: 475.5, y: 73.5}
+        - {x: 436.5, y: 6.5}
+        - {x: 512.5, y: -5.5}
+        - {x: 512.5, y: -207.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b1386f706db5af0800000000000000
+      internalID: -406496011657995516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thorn1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1635
+        width: 368
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77, y: -164.5}
+        - {x: -184, y: -13.5}
+        - {x: -158, y: 10.5}
+        - {x: -184, y: 109.5}
+        - {x: -184, y: 131.5}
+        - {x: -143, y: 76.5}
+        - {x: -116, y: 86.5}
+        - {x: -86, y: 22.5}
+        - {x: -59, y: 64.5}
+        - {x: -73, y: 138.5}
+        - {x: -44, y: 164.5}
+        - {x: -34, y: 99.5}
+        - {x: 9.783905, y: 164.5}
+        - {x: 45, y: 164.5}
+        - {x: 23, y: 50.5}
+        - {x: 77, y: 111.5}
+        - {x: 83, y: 54.5}
+        - {x: 121, y: 118.5}
+        - {x: 146, y: 115.5}
+        - {x: 109, y: 12.5}
+        - {x: 184, y: 53.5}
+        - {x: 184, y: 25.5}
+        - {x: 15, y: -164.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cddf5a9b7536a560800000000000000
+      internalID: 7324600648951913920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thorn4
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1604
+        width: 440
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85, y: -123.5}
+        - {x: 46, y: -122.5}
+        - {x: 24, y: -98.5}
+        - {x: -48, y: -100.5}
+        - {x: -45, y: -123.5}
+        - {x: -107, y: -123.5}
+        - {x: -142, y: -98.5}
+        - {x: -168.28955, y: -123.5}
+        - {x: -220, y: -123.5}
+        - {x: -220, y: -0.5}
+        - {x: -171, y: -34.5}
+        - {x: -146, y: 9.5}
+        - {x: -142, y: -24.5}
+        - {x: -117, y: -14.5}
+        - {x: -121, y: 28.5}
+        - {x: -152, y: 62.5}
+        - {x: -85, y: 68.5}
+        - {x: -87, y: 123.5}
+        - {x: -70, y: 123.5}
+        - {x: -46, y: 84.5}
+        - {x: -25.984497, y: 86.03967}
+        - {x: -31, y: 114.5}
+        - {x: 11, y: 87.5}
+        - {x: 34, y: 123.5}
+        - {x: 68, y: 85.5}
+        - {x: 64, y: 50.5}
+        - {x: 123, y: 43.5}
+        - {x: 178, y: 20.5}
+        - {x: 125, y: 5.5}
+        - {x: 141, y: -44.5}
+        - {x: 220, y: -56.5}
+        - {x: 220, y: -71.5}
+        - {x: 172, y: -82.5}
+        - {x: 184, y: -111.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e372a326accaa7ad0800000000000000
+      internalID: -2703658641051211970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thorn2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1196
+        width: 637
+        height: 375
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -209.5, y: -183.5}
+        - {x: -318.5, y: -80.5}
+        - {x: -276.5, y: -17.5}
+        - {x: -218.5, y: -29.5}
+        - {x: -214.5, y: 108.5}
+        - {x: -130.5, y: 112.5}
+        - {x: -129.5, y: 163.5}
+        - {x: -35.5, y: 129.5}
+        - {x: -57.5, y: 185.5}
+        - {x: 57.5, y: 134.5}
+        - {x: 65.5, y: 187.5}
+        - {x: 89.5, y: 187.5}
+        - {x: 93.5, y: 148.5}
+        - {x: 150.5, y: 187.5}
+        - {x: 74.5, y: -41.5}
+        - {x: 165.5, y: 21.5}
+        - {x: 215.5, y: 121.5}
+        - {x: 198.5, y: 8.5}
+        - {x: 318.5, y: 76.5}
+        - {x: 140.5, y: -70.5}
+        - {x: 113.5, y: -124.5}
+        - {x: 286.5, y: -23.5}
+        - {x: 164.5, y: -127.5}
+        - {x: 318.5, y: -75.5}
+        - {x: 318.5, y: -114.5}
+        - {x: 109.5, y: -187.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0641811af6cd2f50800000000000000
+      internalID: 6858356584892941839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thorn7
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1187
+        width: 625
+        height: 348
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 284.5, y: -92}
+        - {x: 90.5, y: -90}
+        - {x: 9.5, y: -65}
+        - {x: 4.13208, y: -152.5304}
+        - {x: -65.5, y: -151}
+        - {x: -65.5, y: -106}
+        - {x: -92.5, y: -118}
+        - {x: -117.5, y: -148}
+        - {x: -171.5, y: -146}
+        - {x: -159.5, y: -63}
+        - {x: -220.5, y: -8}
+        - {x: -279.5, y: -34}
+        - {x: -312.5, y: -16}
+        - {x: -312.5, y: 21}
+        - {x: -273.5, y: 32}
+        - {x: -257.5, y: 65}
+        - {x: -222.5, y: 70}
+        - {x: -268.5, y: 96}
+        - {x: -255.5, y: 103}
+        - {x: -285.5, y: 142}
+        - {x: -193.5, y: 96}
+        - {x: -169.5, y: 97}
+        - {x: -159.5, y: 174}
+        - {x: -144.5, y: 174}
+        - {x: -144.5, y: 109}
+        - {x: -94.5, y: 101}
+        - {x: -64.5, y: 174}
+        - {x: -54.5, y: 174}
+        - {x: -67.5, y: 95}
+        - {x: -44.5, y: 83}
+        - {x: -42.5, y: 156}
+        - {x: -27.5, y: 121}
+        - {x: -5.5, y: 115}
+        - {x: 19.5, y: 146}
+        - {x: 6.7541504, y: 54.921143}
+        - {x: 35.5, y: 46}
+        - {x: 61.5, y: 52}
+        - {x: 28.5, y: 145}
+        - {x: 82.5, y: 69}
+        - {x: 107.5, y: 151}
+        - {x: 112.5, y: 62}
+        - {x: 176.5, y: 112}
+        - {x: 140.5, y: 54}
+        - {x: 182.5, y: 22}
+        - {x: 218.5, y: 26}
+        - {x: 285.5, y: 81}
+        - {x: 262.5, y: 29}
+        - {x: 306.5, y: 31}
+        - {x: 312.5, y: 16}
+        - {x: 237.5, y: -37}
+      - - {x: -98.5, y: -57}
+        - {x: -95.5, y: -22}
+        - {x: -78.5, y: -2}
+        - {x: -61.5, y: 0}
+        - {x: -55.5, y: -65}
+      - - {x: -160.5, y: 17}
+        - {x: -165.5, y: -29}
+        - {x: -185.5, y: -14}
+        - {x: -184.5, y: 18}
+        - {x: -152.5, y: 47}
+        - {x: -116.5, y: 55}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e43dc39a9a14220800000000000000
+      internalID: 2468440615110790748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thorn6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 524
+        width: 593
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.0907, y: -475.5}
+        - {x: 36.5, y: -264.5}
+        - {x: -63.5, y: -318.5}
+        - {x: -85.5, y: -475.5}
+        - {x: -211.5, y: -475.5}
+        - {x: -201.5, y: -421.5}
+        - {x: -267.5, y: -348.5}
+        - {x: -256.5, y: -227.5}
+        - {x: -238.5, y: -195.5}
+        - {x: -243.5, y: -161.5}
+        - {x: -283.5, y: -189.5}
+        - {x: -296.5, y: -111.5}
+        - {x: -275.5, y: -37.5}
+        - {x: -296.5, y: 113.5}
+        - {x: -227.5, y: 224.5}
+        - {x: -122.5, y: 197.5}
+        - {x: -23.5, y: 310.5}
+        - {x: 48.5, y: 235.5}
+        - {x: -6.5, y: 176.5}
+        - {x: 9.5, y: 111.5}
+        - {x: 71.5, y: 165.5}
+        - {x: 89.5, y: 154.5}
+        - {x: 83.5, y: 235.5}
+        - {x: 35.5, y: 257.5}
+        - {x: 34.5, y: 297.5}
+        - {x: 77.5, y: 319.5}
+        - {x: 89.5, y: 353.5}
+        - {x: 46.548096, y: 379.83594}
+        - {x: 121.5, y: 391.5}
+        - {x: 68.5, y: 430.5}
+        - {x: 121.5, y: 485.5}
+        - {x: 153.5, y: 485.5}
+        - {x: 170.9602, y: 428.3916}
+        - {x: 232.5, y: 442.5}
+        - {x: 290.5, y: 382.5}
+        - {x: 246.5, y: 336.5}
+        - {x: 200.5, y: 242.5}
+        - {x: 296.5, y: 241.5}
+        - {x: 296.5, y: 188.5}
+        - {x: 220.5, y: 150.5}
+        - {x: 250.5, y: 90.5}
+        - {x: 183.5, y: -5.5}
+        - {x: 105.5, y: -48.5}
+        - {x: 97.5, y: -1.5}
+        - {x: 66.5, y: -23.5}
+        - {x: 38.5, y: -81.5}
+        - {x: 67.5, y: -126.5}
+        - {x: 98.5, y: -65.5}
+        - {x: 126.5, y: -91.5}
+        - {x: 256.5, y: -158.5}
+        - {x: 273.5, y: -239.5}
+        - {x: 258.5, y: -336.5}
+        - {x: 181.5, y: -431.5}
+        - {x: 208.5, y: -475.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadd4485361048060800000000000000
+      internalID: 6954685250761186733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thorn3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 887
+        width: 572
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -148, y: -110.5}
+        - {x: -286, y: 8.5}
+        - {x: -198.10016, y: 66.16675}
+        - {x: -142, y: 40.5}
+        - {x: -129, y: 111.5}
+        - {x: -98, y: 111.5}
+        - {x: -102, y: 25.5}
+        - {x: -75, y: 36.5}
+        - {x: -45, y: 108.5}
+        - {x: 13.869049, y: 109.47034}
+        - {x: 53, y: 58.5}
+        - {x: 137, y: 111.5}
+        - {x: 173, y: 86.5}
+        - {x: 175, y: 28.5}
+        - {x: 249, y: 54.5}
+        - {x: 214, y: -5.5}
+        - {x: 286, y: 8.5}
+        - {x: 286, y: -30.5}
+        - {x: 125, y: -108.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ad4e0ef057dada0800000000000000
+      internalID: -5931956423119021470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thorn11
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 878
+        width: 324
+        height: 207
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72, y: 54.5}
+        - {x: 67, y: 94.5}
+        - {x: 55, y: 89.5}
+        - {x: 31, y: 59.5}
+        - {x: 48, y: 103.5}
+        - {x: 34, y: 103.5}
+        - {x: 1, y: 66.5}
+        - {x: -15, y: 103.5}
+        - {x: -35, y: 103.5}
+        - {x: -61, y: 50.5}
+        - {x: -86, y: 77.5}
+        - {x: -91, y: 54.5}
+        - {x: -111, y: 64.5}
+        - {x: -101, y: 37.5}
+        - {x: -159, y: 6.5}
+        - {x: -126, y: -25.5}
+        - {x: -162, y: -59.5}
+        - {x: -162, y: -84.5}
+        - {x: -104, y: -53.5}
+        - {x: -83, y: -54.5}
+        - {x: -93, y: -74.5}
+        - {x: -45, y: -91.5}
+        - {x: 5, y: -58.5}
+        - {x: 35, y: -103.5}
+        - {x: 82, y: -103.5}
+        - {x: 76, y: -71.5}
+        - {x: 105, y: -52.5}
+        - {x: 162, y: -44.5}
+        - {x: 162, y: -26.5}
+        - {x: 105, y: -10.5}
+        - {x: 119, y: 46.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ef95c5a654b5e30800000000000000
+      internalID: 4493261376350453339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thorn8
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 564
+        width: 263
+        height: 581
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104.5, y: -22.5}
+        - {x: 72.5, y: -74.5}
+        - {x: 66.5, y: -1.5}
+        - {x: 76.5, y: 84.5}
+        - {x: 117.5, y: 290.5}
+        - {x: 100.5, y: 290.5}
+        - {x: 66.5, y: 201.5}
+        - {x: 46.5, y: 226.5}
+        - {x: 38.5, y: 123.5}
+        - {x: 15.5, y: 21.5}
+        - {x: -93.5, y: 42.5}
+        - {x: -131.5, y: 5.5}
+        - {x: -131.5, y: -10.5}
+        - {x: -21.5, y: -7.5}
+        - {x: 19.5, y: -39.5}
+        - {x: 55.5, y: -180.5}
+        - {x: -2.5, y: -287.5}
+        - {x: 8.5, y: -290.5}
+        - {x: 76.5, y: -290.5}
+        - {x: 109.5, y: -229.5}
+        - {x: 131.5, y: -202.5}
+        - {x: 131.5, y: -173.50781}
+        - {x: 98.5, y: -147.5}
+        - {x: 131.5, y: -99.59967}
+        - {x: 131.5, y: -53.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb40cdd98cf9b65a0800000000000000
+      internalID: -6526947550952684357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thorn9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 460
+        width: 558
+        height: 349
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 254, y: -79.5}
+        - {x: 214, y: -46.5}
+        - {x: 279, y: -31.5}
+        - {x: 279, y: -14.5}
+        - {x: 239, y: 2.5}
+        - {x: 257, y: 94.5}
+        - {x: 245, y: 92.5}
+        - {x: 201, y: 30.5}
+        - {x: 147, y: 23.5}
+        - {x: 205, y: 90.5}
+        - {x: 159, y: 100.5}
+        - {x: 154, y: 147.5}
+        - {x: 129, y: 174.5}
+        - {x: 106, y: 174.5}
+        - {x: 103, y: 86.5}
+        - {x: 76, y: 102.5}
+        - {x: 65, y: 76.5}
+        - {x: 69, y: 16.5}
+        - {x: 40, y: 52.5}
+        - {x: 36, y: 94.5}
+        - {x: -1, y: 144.5}
+        - {x: -20, y: 93.5}
+        - {x: -44, y: 103.5}
+        - {x: -94, y: 78.5}
+        - {x: -87, y: 125.5}
+        - {x: -103, y: 174.5}
+        - {x: -129, y: 130.5}
+        - {x: -162, y: 168.5}
+        - {x: -191, y: 153.5}
+        - {x: -152, y: 72.5}
+        - {x: -190, y: 72.5}
+        - {x: -135, y: 10.5}
+        - {x: -209, y: -5.5}
+        - {x: -246, y: 56.5}
+        - {x: -273, y: 72.5}
+        - {x: -279, y: -60.5}
+        - {x: -226, y: -65.5}
+        - {x: -237, y: -102.5}
+        - {x: -189, y: -163.5}
+        - {x: -28, y: -174.5}
+        - {x: 104, y: -174.5}
+        - {x: 203, y: -144.5}
+        - {x: 206, y: -137.5}
+        - {x: 185, y: -106.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688c81cd408013700800000000000000
+      internalID: 518204249089820806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thorn10
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 474
+        width: 270
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: -185.5}
+        - {x: -127, y: -159.5}
+        - {x: -135, y: -82.5}
+        - {x: -135, y: -61.5}
+        - {x: -109, y: -41.5}
+        - {x: -135, y: 29.5}
+        - {x: -95, y: 96.5}
+        - {x: 7.227783, y: 85.90546}
+        - {x: 48, y: 64.5}
+        - {x: 54, y: 185.5}
+        - {x: 93, y: 156.5}
+        - {x: 110, y: 91.5}
+        - {x: 135, y: 88.5}
+        - {x: 135, y: 63.5}
+        - {x: 96, y: 25.5}
+        - {x: 135, y: 7.5}
+        - {x: 95, y: -45.5}
+        - {x: 134, y: -63.5}
+        - {x: 78, y: -107.5}
+        - {x: 97, y: -131.5}
+        - {x: 44, y: -185.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce8571f03981cbf0800000000000000
+      internalID: -305812456382034238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RootArc1
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 23
+        width: 921
+        height: 465
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 459.5, y: -133.5}
+        - {x: 385.5, y: 24.5}
+        - {x: 293.5, y: 65.5}
+        - {x: 283.5, y: 153.5}
+        - {x: 144.5, y: 232.5}
+        - {x: -114.5, y: 232.5}
+        - {x: -212.5, y: 149.5}
+        - {x: -315.5, y: 98.5}
+        - {x: -404.5, y: -21.5}
+        - {x: -460.5, y: -157.5}
+        - {x: -460.5, y: -232.5}
+        - {x: -331.5, y: -232.5}
+        - {x: -200.5, y: 12.5}
+        - {x: -72.5, y: 83.5}
+        - {x: 34.5, y: 105.5}
+        - {x: 186.5, y: 5.5}
+        - {x: 273.5, y: -46.5}
+        - {x: 355.71045, y: -232.5}
+        - {x: 460.5, y: -232.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fde1a5881b96c60800000000000000
+      internalID: 7811970227836477283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RootArc2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 37
+        width: 759
+        height: 311
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.5, y: 155.5}
+        - {x: -153.5, y: 141.5}
+        - {x: -288.5, y: 22.5}
+        - {x: -376.5, y: -100.5}
+        - {x: -379.5, y: -151.5}
+        - {x: -253.5, y: -145.5}
+        - {x: -122.5, y: -6.5}
+        - {x: 28.5, y: 57.5}
+        - {x: 102.5, y: 25.5}
+        - {x: 180.5, y: -35.5}
+        - {x: 220.5, y: -47.5}
+        - {x: 287.5, y: -155.5}
+        - {x: 379.5, y: -155.5}
+        - {x: 379.5, y: -70.5}
+        - {x: 298.5, y: 6.5}
+        - {x: 312.5, y: 27.5}
+        - {x: 190.5, y: 120.5}
+        - {x: 104.5, y: 155.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507f249aece69aa70800000000000000
+      internalID: 8838717577573365509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Thorn10: -305812456382034238
+      Thorn4: -2703658641051211970
+      Thorn6: 6954685250761186733
+      Thorn3: -5931956423119021470
+      Thorn5: -406496011657995516
+      Thorn7: 2468440615110790748
+      Thorn11: 4493261376350453339
+      RootArc2: 8838717577573365509
+      Thorn8: -6526947550952684357
+      Thorn2: 6858356584892941839
+      RootArc1: 7811970227836477283
+      Thorn9: 518204249089820806
+      Thorn1: 7324600648951913920
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

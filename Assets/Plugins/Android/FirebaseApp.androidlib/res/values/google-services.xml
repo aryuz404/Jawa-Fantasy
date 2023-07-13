@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">null</string>
+  <string name="gcm_defaultSenderId" translatable="false">209234370487</string>
+  <string name="google_storage_bucket" translatable="false">jawa-fantasy-v3.appspot.com</string>
+  <string name="project_id" translatable="false">jawa-fantasy-v3</string>
+  <string name="google_api_key" translatable="false">AIzaSyDrA3tASrmpXb1Yo3Agy_RKOkYdZl0MPJg</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDrA3tASrmpXb1Yo3Agy_RKOkYdZl0MPJg</string>
+  <string name="google_app_id" translatable="false">1:209234370487:android:7fbddd1c5b21d039481232</string>
+  <string name="default_web_client_id" translatable="false">209234370487-l3d0ugdvbn185j74vucmkdd4gn06gujp.apps.googleusercontent.com</string>
+</resources>

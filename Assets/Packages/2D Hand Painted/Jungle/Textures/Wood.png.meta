@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 48d10854cf2aa4a5992ef488fddd42ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7925157222857896072
+    second: Bridge
+  - first:
+      213: -871907234539676369
+    second: Stake1
+  - first:
+      213: 54522180897507154
+    second: FallenTrunk
+  - first:
+      213: 7193844817558614349
+    second: Platforms_3
+  - first:
+      213: -2067898546876541913
+    second: WoodenPlank3
+  - first:
+      213: 2452868899569839818
+    second: Fance
+  - first:
+      213: 3762640852321080547
+    second: WoodenPlank2
+  - first:
+      213: -6984379183983152048
+    second: WoodenPlank1
+  - first:
+      213: 1135088928692803280
+    second: Stake4
+  - first:
+      213: -3671240662380257056
+    second: Stake3
+  - first:
+      213: 3228662599699316609
+    second: Stake2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stake1
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 984
+        width: 65
+        height: 567
+      alignment: 9
+      pivot: {x: 0.5, y: -0.010466722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d5b206dfc56e3f0800000000000000
+      internalID: -871907234539676369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallenTrunk
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 28
+        width: 2028
+        height: 486
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.007135713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 694, y: 243}
+        - {x: 461, y: 162}
+        - {x: 152, y: 152}
+        - {x: -87, y: 210}
+        - {x: -598, y: 235}
+        - {x: -631, y: 216}
+        - {x: -914, y: 218}
+        - {x: -948, y: 141}
+        - {x: -1014, y: 121}
+        - {x: -1014, y: 37.74646}
+        - {x: -809, y: -37}
+        - {x: -818, y: -107}
+        - {x: -1014, y: -168}
+        - {x: -1014, y: -243}
+        - {x: -766, y: -243}
+        - {x: -255, y: -172}
+        - {x: 182, y: -243}
+        - {x: 759, y: -243}
+        - {x: 970, y: -222}
+        - {x: 1010, y: -174}
+        - {x: 1014, y: -21.843903}
+        - {x: 892, y: -10}
+        - {x: 935, y: 85}
+        - {x: 952, y: 161}
+        - {x: 795, y: 163}
+        - {x: 768, y: 243}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25786c872a3b1c000800000000000000
+      internalID: 54522180897507154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenPlank3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1663
+        width: 755
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -295.5, y: 145}
+        - {x: -336.5, y: 19}
+        - {x: -305.5, y: -3}
+        - {x: -377.5, y: -27}
+        - {x: -376.5, y: -136}
+        - {x: -282.5, y: -130}
+        - {x: -174.5, y: -145}
+        - {x: -72.5, y: -145}
+        - {x: -13.5, y: -132}
+        - {x: 360.5, y: -144}
+        - {x: 377.5, y: -106}
+        - {x: 377.5, y: -21}
+        - {x: 300.5, y: -9}
+        - {x: 355.5, y: 5}
+        - {x: 377.5, y: 63.89978}
+        - {x: 377.5, y: 122}
+        - {x: 306.5, y: 145}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72490e15a395d43e0800000000000000
+      internalID: -2067898546876541913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fance
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1239
+        width: 1262
+        height: 359
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -631, y: 32.5}
+        - {x: -553, y: 24.5}
+        - {x: -511, y: -174.5}
+        - {x: -473, y: -166.5}
+        - {x: -459, y: -144.5}
+        - {x: -467, y: 35.5}
+        - {x: 27, y: 17.5}
+        - {x: 24, y: -179.5}
+        - {x: 103.0625, y: -179.5}
+        - {x: 111, y: 19.5}
+        - {x: 435, y: 18.5}
+        - {x: 414, y: -76.5}
+        - {x: 409, y: -179.5}
+        - {x: 482, y: -179.5}
+        - {x: 551, y: 10.5}
+        - {x: 631, y: 25.5}
+        - {x: 631, y: 95.5}
+        - {x: 556, y: 106.5}
+        - {x: 542, y: 162.5}
+        - {x: 467.5238, y: 164.96765}
+        - {x: 458, y: 96.5}
+        - {x: 116, y: 95.5}
+        - {x: 108, y: 179.5}
+        - {x: 28.908203, y: 179.49988}
+        - {x: 21, y: 100.5}
+        - {x: -214, y: 113.5}
+        - {x: -458, y: 105.5}
+        - {x: -458, y: 179.5}
+        - {x: -546, y: 179.5}
+        - {x: -553, y: 92.5}
+        - {x: -631, y: 101.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acea67fa4475a0220800000000000000
+      internalID: 2452868899569839818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenPlank2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 927
+        width: 1327
+        height: 282
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 587.5, y: 141}
+        - {x: 260.5, y: 88}
+        - {x: -165.5, y: 107}
+        - {x: -251.5, y: 141}
+        - {x: -663.5, y: 141}
+        - {x: -663.5, y: 17}
+        - {x: -624.5, y: -17}
+        - {x: -575.5, y: -5}
+        - {x: -596.5, y: -72}
+        - {x: -584.5, y: -141}
+        - {x: 615.5, y: -140}
+        - {x: 610.5, y: -19}
+        - {x: 663.5, y: -12.674927}
+        - {x: 663.5, y: 116}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e498fb7be5973430800000000000000
+      internalID: 3762640852321080547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenPlank1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 534
+        width: 1537
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 477.8706, y: 170.5}
+        - {x: 317.5, y: 144.5}
+        - {x: -518.5, y: 156.5}
+        - {x: -659.5, y: 170.5}
+        - {x: -739.5, y: 170.5}
+        - {x: -768.5, y: 86.5}
+        - {x: -768.5, y: -149.5}
+        - {x: -338.5, y: -147.5}
+        - {x: -222.5, y: -170.5}
+        - {x: 644.5, y: -170.5}
+        - {x: 718.5, y: -37.5}
+        - {x: 722.5, y: -1.5}
+        - {x: 754.5, y: 33.5}
+        - {x: 768.5, y: 170.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0543d021320821f90800000000000000
+      internalID: -6984379183983152048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stake4
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 929
+        width: 70
+        height: 616
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6963fdd55a0cf00800000000000000
+      internalID: 1135088928692803280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stake3
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 921
+        width: 140
+        height: 638
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 318}
+        - {x: -66, y: 296}
+        - {x: -53, y: 250}
+        - {x: -57.508057, y: 89.96619}
+        - {x: -40, y: 68}
+        - {x: -70, y: -6}
+        - {x: -52, y: -319}
+        - {x: 23, y: -318}
+        - {x: 31, y: 14}
+        - {x: 53, y: 103}
+        - {x: 41, y: 157}
+        - {x: 70, y: 239}
+        - {x: 70, y: 293}
+        - {x: 33, y: 319}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0ead191122d0dc0800000000000000
+      internalID: -3671240662380257056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stake2
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 567
+        width: 64
+        height: 984
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fbaaa37838ecc20800000000000000
+      internalID: 3228662599699316609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fance: 2452868899569839818
+      Stake1: -871907234539676369
+      WoodenPlank3: -2067898546876541913
+      Stake4: 1135088928692803280
+      Stake3: -3671240662380257056
+      WoodenPlank1: -6984379183983152048
+      FallenTrunk: 54522180897507154
+      WoodenPlank2: 3762640852321080547
+      Stake2: 3228662599699316609
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
