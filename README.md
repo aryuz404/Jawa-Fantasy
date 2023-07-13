@@ -5,4 +5,6 @@ This game is submitted to fulfill one of the requirements for obtaining a degree
   Undergraduate Study Program of Computer Engineering <br />
   Department of Computer Engineering <br />
   Faculty of Intelligent Electrical and Informatics Technology <br />
-  Sepuluh Nopember Institute of Technology
+  Sepuluh Nopember Institute of Technology <br />
+<br />
+Jawa Fantasy uses Firebase as backend database. You need to add Firebase Unity Package first to make this project works.
